@@ -24,5 +24,5 @@ an organization I helped found.</p>
 <ul>
 	<li><a href="https://github.com/jclarktennis/SpotifyLyrics">Spotify Lyrics</a> fetches and displays lyrics for the song
 		currenty playing in Spotify</li>
-	<li><a href="https://github.com/">Music Festival Project</a> my friend Eamon and I are working on </li>
+	<li><a href="https://github.com/jclarktennis/Blog">Music Festival Project</a> my friend Eamon and I are working on </li>
 </ul>
