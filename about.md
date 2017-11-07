@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, my name is Josh and I'm a junior at Yale University studying Computer Science and Psychology. On campus
+<p>Hi, I'm Josh and I'm a junior at Yale University studying Computer Science and Psychology. On campus
 I play club squash, volunteer at the Downtown Evening Soup Kitchen, and I am the treasurer of Yale Donate Life,
 an organization I helped found.</p>
 
