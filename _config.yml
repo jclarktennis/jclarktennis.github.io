@@ -19,6 +19,7 @@ resume-url: ./Josh_Clark_Resume.pdf
 url: http://jclarktennis.github.io
 # your url: http://USERNAME.github.io
 
+title: "Josh Clark"
 permalink: /:title/
 
 # To enable google analytics, supply your token below
@@ -39,7 +40,7 @@ facebook: joshua.clark.7186
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: in/josh-clark-26016114b/
+linkedin: josh-clark-26016114b/
 # youtube: myyoutube
 # spotify: myspotify
 github: jclarktennis
