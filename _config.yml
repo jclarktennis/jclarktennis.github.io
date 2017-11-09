@@ -40,7 +40,7 @@ facebook: joshua.clark.7186
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: josh-clark-26016114b/
+linkedin: joshclark1997
 # youtube: myyoutube
 # spotify: myspotify
 github: jclarktennis
@@ -60,12 +60,12 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+    # jamesfoster:
+    #     name: James Foster
+    #     bio: A Man who develops software with coffee
+    #     external-image: false
+    #     picture: assets/images/james.jpg
+    #     twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -81,7 +81,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
