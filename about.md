@@ -8,6 +8,11 @@ layout: page
 I play club squash, volunteer at the Downtown Evening Soup Kitchen, and I am the co-founder and treasurer of Yale Donate Life,
 an organ donation awareness organization.</p>
 
+<br></br>
+
+<p>For fun, I like to watch sports (especially hockey -- go Isles!), exercise, spend time with my friends,
+	work on projects and puzzles, and listen to music. I'm a big fan of music festivals and live music, especially EDM.</p>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -17,6 +22,7 @@ an organ donation awareness organization.</p>
 	<li>Git</li>
 	<li>HTML, CSS</li>
 	<li>BeautifulSoup</li>
+	<li>LaTeX</li>
 </ul>
 
 <h2>Projects</h2>
