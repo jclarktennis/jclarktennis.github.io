@@ -7,7 +7,6 @@ layout: page
 <p>Hi, I'm Josh and I'm a junior at Yale University studying Computer Science and Psychology. On campus
 I play club squash, volunteer at the Downtown Evening Soup Kitchen, and I am the co-founder and treasurer of Yale Donate Life,
 an organ donation awareness organization.</p>
-<br>
 <p>For fun, I like to watch sports (especially hockey -- go Isles!), exercise, spend time with my friends,
 	work on projects and puzzles, and listen to music. I'm a big fan of music festivals and live music, especially EDM.</p>
 
