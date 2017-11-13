@@ -8,7 +8,7 @@ layout: page
 I play club squash, volunteer at the Downtown Evening Soup Kitchen, and I am the co-founder and treasurer of Yale Donate Life,
 an organ donation awareness organization.</p>
 <p>For fun, I like to watch sports (especially hockey -- go Isles!), exercise, spend time with my friends,
-	work on projects and puzzles, and listen to music. I'm a big fan of music festivals and live music, especially EDM.</p>
+work on projects and puzzles, and listen to music. I'm a big fan of music festivals and live music, especially EDM.</p>
 
 <h2>Skills</h2>
 
@@ -25,7 +25,7 @@ an organ donation awareness organization.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/jclarktennis/SpotifyLyrics">Spotify Lyrics</a> fetches and displays lyrics for the song
+	<li><a href="https://github.com/jclarktennis/SpotifyLyrics">Lyrics Always</a> fetches and displays lyrics for the song
 		currenty playing in Spotify</li>
 	<li><a href="https://github.com/jclarktennis/Blog">Music Festival Project</a> my friend Eamon and I are working on </li>
 </ul>
