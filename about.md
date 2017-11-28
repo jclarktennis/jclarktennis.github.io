@@ -27,5 +27,6 @@ work on projects and puzzles, and listen to music. I'm a big fan of music festiv
 <ul>
 	<li><a href="https://github.com/jclarktennis/SpotifyLyrics">Lyrics Always</a> fetches and displays lyrics for the song
 		currenty playing through Spotify</li>
+	<li><a href="http://www.waiv.xyz/">Waiv</a> is mobile and web app that I worked on that identifies and organizes events happening around you.
 	<li><a href="https://github.com/jclarktennis/Blog">Music Festival Project</a> my friend Eamon and I are working on </li>
 </ul>
