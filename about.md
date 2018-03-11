@@ -28,5 +28,5 @@ work on projects and puzzles, and listen to music. I'm a big fan of music festiv
 	<li><a href="https://github.com/jclarktennis/SpotifyLyrics">Lyrics Always</a> fetches and displays lyrics for the song
 		currenty playing through Spotify</li>
 	<li><a href="http://www.waiv.xyz/">Waiv</a> is mobile and web app that I worked on that identifies and organizes events happening around you</li>
-	<li><a href="http://www.theboolinboys.com/">The Boolin' Boys</a>, a blog my friend Eamon and I started about our experiences at music festivals</li>
+	<li><a href="http://www.theneedtoglow.com/">The Need to Glow</a>, a blog my friend Eamon and I started about our experiences at music festivals</li>
 </ul>
