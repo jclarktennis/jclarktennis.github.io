@@ -1,4 +1,4 @@
-t---
+---
 title: About
 layout: page
 ---
@@ -10,7 +10,14 @@ an organ donation awareness organization.</p>
 <p>For fun, I like to watch sports (especially hockey -- go Isles!), exercise, spend time with my friends,
 work on projects and puzzles, and listen to music. I'm a big fan of music festivals and live music, especially EDM.</p>
 
-<h2>Skills</h2>
+## Skills
+### Languages
++ Here's a language skill
++ Anotha one
+
+### Other
++ Non-language skill here!
++ Yet another non language skill
 
 <ul class="skill-list">
 	<li>Python</li>
@@ -19,8 +26,8 @@ work on projects and puzzles, and listen to music. I'm a big fan of music festiv
 		</ul>
 	<li>Java</li>
 	<li>C</li>
-	<li>Golang<li>
-	<li>Javascript<li>
+	<li>Golang</li>
+	<li>Javascript</li>
 		<ul>
 			<li>React</li>
 		</ul>
