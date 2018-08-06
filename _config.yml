@@ -8,8 +8,8 @@ description: My life
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/smoothie_josh.jpg
-picture_big: assets/images/big_smoothie_josh.jpg
+picture: ./assets/images/smoothie_josh.jpg
+picture_big: ./assets/images/big_smoothie_josh.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
