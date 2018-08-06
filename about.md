@@ -1,10 +1,10 @@
----
+t---
 title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture_big }})
 
-<p>Hi, I'm Josh and I'm a junior at Yale University studying Computer Science and Psychology. On campus
+<p>Hi, I'm Josh and I'm a senior  at Yale University studying Computer Science and Psychology. On campus
 I play club squash, volunteer at the Downtown Evening Soup Kitchen, and I am the co-founder and treasurer of Yale Donate Life,
 an organ donation awareness organization.</p>
 <p>For fun, I like to watch sports (especially hockey -- go Isles!), exercise, spend time with my friends,
@@ -14,10 +14,17 @@ work on projects and puzzles, and listen to music. I'm a big fan of music festiv
 
 <ul class="skill-list">
 	<li>Python</li>
+		<ul>
+			<li>BeautifulSoup</li>
+		</ul>
 	<li>Java</li>
 	<li>C</li>
+	<li>Golang<li>
+	<li>Javascript<li>
+		<ul>
+			<li>React</li>
+		</ul>
 	<li>Git</li>
-	<li>HTML, CSS</li>
 	<li>BeautifulSoup</li>
 	<li>LaTeX</li>
 </ul>
