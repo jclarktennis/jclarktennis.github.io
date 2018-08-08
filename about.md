@@ -10,6 +10,9 @@ an organ donation awareness organization.</p>
 <p>For fun, I like to watch sports (especially hockey -- go Isles!), exercise, spend time with my friends,
 work on projects and puzzles, and listen to music. I'm a big fan of music festivals and live music, especially EDM.</p>
 
+You can read about some of my skills below. Click on one to read more about it. You can check out some of the projects I've done [here](https://jkclark.github.io/projects).
+
+---
 ## Skills
 ### Programming Languages
 + <p> <details><summary>Python <b>(Click me!)</b></summary> <p>

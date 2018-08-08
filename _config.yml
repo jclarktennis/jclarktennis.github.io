@@ -33,7 +33,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: joshua.clark.7186
@@ -55,7 +55,7 @@ github: jkclark
 email: joshua.clark@yale.edu
 
 authors:
-    johndoe: # joshclark ?
+    joshclark:
         name: Josh Clark
         bio: "Software engineer, friend, lover"
         external-image: false
