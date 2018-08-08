@@ -12,7 +12,7 @@ work on projects and puzzles, and listen to music. I'm a big fan of music festiv
 
 ## Skills
 ### Programming Languages
-+ <p> <details><summary>Python</summary> <p>
++ <p> <details><summary>Python <b>(Click me!)</b></summary> <p>
 &nbsp;&nbsp;&nbsp;&nbsp;My Python experience goes back to the beginning of my programming career. From the summer of 2013 to the fall of 2014, I worked at Regeneron Pharmaceuticals, writing code for them in Python. I spent a few months writing a program that took as input a series of sequential images and produced as output a movie of those images put together. I spent the rest of my time at Regeneron writing an application that took stacks of micron-thin 3D images and allowed the user to view them together at any angle. This involved learning about polar coordinates and some basic linear algebra on my own.
 <br>
 <!-- <br> -->

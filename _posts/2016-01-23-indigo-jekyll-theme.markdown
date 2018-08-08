@@ -1,8 +1,8 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Lyrics Always"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 2018-08-08 11:41
+tag: [python, beautifulsoup, music]
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
