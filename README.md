@@ -1,1 +1,2 @@
-you can find the theme [here](https://github.com/sergiokopplin/indigo)
+My personal website
+[Theme](https://github.com/sergiokopplin/indigo) by Sergio Kopplin
