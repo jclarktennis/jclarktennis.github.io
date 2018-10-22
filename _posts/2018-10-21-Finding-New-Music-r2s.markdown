@@ -31,4 +31,4 @@ but I'll keep this blog updated with posts detailing what's going on with the pr
 
 &nbsp;&nbsp;&nbsp;&nbsp;Once this is done, I (and you!) will be able to open up Spotify on Friday mornings and listen to all the new songs you want in one playlist.
 
-You can check out the project (temporarily dubbed "reddit2Spotify") **[here](https://github.com/jkclark/reddit2Spotify)**.
+You can check out the project (initially dubbed "reddit2Spotify") **[here](https://github.com/jkclark/reddit2Spotify)**.

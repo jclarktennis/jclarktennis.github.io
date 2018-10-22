@@ -5,7 +5,7 @@ date: 2018-10-13 13:56
 image:
 headerImage: false
 tag:
--
+- Meta
 star: true
 category: blog
 author: Josh Clark
@@ -15,11 +15,11 @@ description: My First Blog Post
 
 Hi there!
 
-Welcome to my blog. I've decided to start writing here not only to
+&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my blog. I've decided to start writing here not only to
 serve as a log for myself, but also so that anybody else who's interested in
 what I'm up to can read about it.
 
-Even though there are links to my social media on the home page, it can't hurt
+&nbsp;&nbsp;&nbsp;&nbsp;Even though there are links to my social media on the home page, it can't hurt
 to link them here, too :blush::
 
 + [Github](https://github.com/jkclark)
