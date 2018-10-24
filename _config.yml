@@ -36,7 +36,7 @@ disqus:
   categories: [] # [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: joshua.clark.7186
+# facebook: myfacebook
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
