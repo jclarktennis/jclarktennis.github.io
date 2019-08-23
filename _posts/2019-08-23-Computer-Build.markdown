@@ -40,13 +40,15 @@ goals I had in mind:
 - Be able to see the inside of the computer, and (if possible) have it look good.
 
 ## Final parts list
-Here is the list of parts that I settled on: **CPU: AMD Ryzen**
-7 2700x
+Here is the list of parts that I settled on:
+
+CPU: **AMD Ryzen 7 2700x**
 - Why I settled on AMD instead of Intel, I don't really know. I read a lot of
 	articles about Intel vs. AMD, and it seemed like the main difference was that
 	AMD chips were better at multitasking, whereas Intel chips were better at
 	single-threaded tasks. The Ryzen 2700x appealed to me on an aesthetic level,
-	it was on sale for Amazon Prime Day, and I saw a Linus Tech Tips video which
+	it was on sale for Amazon Prime Day, and I saw a
+	<a href='https://www.youtube.com/watch?v=WoKPCCYvByo' target='_blank'>Linus Tech Tips video</a> which
 	concluded that it was really just as good as whatever the equivalent Intel
 	chip is, so I just went for it.
 
@@ -76,7 +78,7 @@ Storage: **Samsung 860 EVO SSD 1TB**
 
 Video Card: **EVGA GeForce RTX 2080**
 - I spent a lot of time deciding what graphics card to get. At one point, I was
-	considering getting the RTX 2080 Ti, which is nearly twice as expensive.
+	considering getting the RTX 2080 Ti, which is nearly twice as expensive as this one.
 	Looking back on it, I am very happy with the card I settled on, as I basically
 	don't see how it could perform better than it does, but I'll disucss that in
 	more detail in a later section. Anyway, this was the part of the build where
