@@ -48,7 +48,7 @@ CPU: **AMD Ryzen 7 2700x**
 	AMD chips were better at multitasking, whereas Intel chips were better at
 	single-threaded tasks. The Ryzen 2700x appealed to me on an aesthetic level,
 	it was on sale for Amazon Prime Day, and I saw a
-	<a href='https://www.youtube.com/watch?v=WoKPCCYvByo' target='_blank'>Linus Tech Tips video</a> which
+	<a href='https://www.youtube.com/watch?v=WoKPCCYvByo'>Linus Tech Tips video</a> which
 	concluded that it was really just as good as whatever the equivalent Intel
 	chip is, so I just went for it.
 
