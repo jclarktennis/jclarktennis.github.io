@@ -1,6 +1,8 @@
---- title: "Building a Gaming PC"
+---
+title: "Building a Gaming PC"
 layout: post
-date: 2019-08-23 18:00 image:
+date: 2019-08-23 18:00
+image:
 headerImage: false
 tag:
 - Computers
@@ -31,14 +33,14 @@ someone else to do it for you). They weren't wrong, but they led me to believe
 that it would be easier and go more smoothly than it did, but more on that
 later.
 
-I needed to decide on what parts to buy for my computer. Here were the three
+I needed to decide on what parts to buy for my computer. Here are the three
 goals I had in mind:
 - Buy parts that are all compatible with each other
 - Be able to play games in >100 FPS and 1440p
 - Be able to see the inside of the computer, and (if possible) have it look good.
 
 ## Final parts list
-Here is the list of parts that I settled on: CPU: AMD Ryzen
+Here is the list of parts that I settled on: **CPU: AMD Ryzen**
 7 2700x
 - Why I settled on AMD instead of Intel, I don't really know. I read a lot of
 	articles about Intel vs. AMD, and it seemed like the main difference was that
@@ -48,12 +50,12 @@ Here is the list of parts that I settled on: CPU: AMD Ryzen
 	concluded that it was really just as good as whatever the equivalent Intel
 	chip is, so I just went for it.
 
-CPU Cooler: Corsair H100i RGB Platinum SE
+CPU Cooler: **Corsair H100i RGB Platinum SE**
 - I saw a build on pcpartpicker.com that I thought looked good that used this
 	cooler, so I got it. I did a little research about different coolers, but in
 	the end I think I really liked it for the colors.
 
-Motherboard: ASRock B450M Steel Legend
+Motherboard: **ASRock B450M Steel Legend**
 - Honestly, none of the motherboards online really piqued my interest. They were
 	all pretty meh. There doesn't seem to be one extremely reputable company that
 	has everything down. Every other component had at least one candidate that
@@ -62,17 +64,17 @@ Motherboard: ASRock B450M Steel Legend
 	reviews on Amazon and elsewhere, which, combined with being a microATX board,
 	made me pick it over other boards.
 
-Memory: Corsair Vengeance RGB Pro
+Memory: **Corsair Vengeance RGB Pro**
 - I picked the RAM last, which made this the easiest choice. They were Corsair
 	(so they went with my cpu cooler, case, and power supply), they were white,
 	and they looked amazing, both on and off. The reviews were also stellar, so
 	I jumped on these right away.
 
-Storage: Samsung 860 EVO SSD 1TB
+Storage: **Samsung 860 EVO SSD 1TB**
 - I didn't do too much looking for an SSD. This one was recommended all over the
 	place, had great reviews, and wasn't over-the-top expensive. Easy pick.
 
-Video Card: EVGA GeForce RTX 2080
+Video Card: **EVGA GeForce RTX 2080**
 - I spent a lot of time deciding what graphics card to get. At one point, I was
 	considering getting the RTX 2080 Ti, which is nearly twice as expensive.
 	Looking back on it, I am very happy with the card I settled on, as I basically
@@ -84,14 +86,14 @@ Video Card: EVGA GeForce RTX 2080
 	trusting X company again" and "Had to RMA right away," but I figured that was
 	a chance I'd need to take no matter what card I bought.
 
-Case: Corsair Crystal Series 280x
+Case: **Corsair Crystal Series 280x**
 - This case would accomplish part of one of my goals (be able to see inside the
 	computer), it looked really nice, and it was relatively small (I don't have
 	much space in my small NYC apartment). My friend Sam has an older version of
 	the same case, and gave it a glowing recommendation. All of this was enough to
 	make me jump on it.
 
-Power Supply: Corsair RMx Series RM750x
+Power Supply: **Corsair RMx Series RM750x**
 - Basically, this PSU looked nice, was fully modular, wasn't overpriced, and had
 	good reviews. I stopped looking after I came across this PSU.
 
