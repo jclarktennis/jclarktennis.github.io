@@ -14,7 +14,10 @@ description: Hopefully you can learn from my mistakes
 
 ---
 
-**NOTE:** This article is a work-in-progress.
+**Note:** This article is a work-in-progress.
+
+**Warning:** Some parts of this post have far more detail than they probably
+need to. Read at your own risk.
 
 ## Background
 Once I graduated from high school and
@@ -34,10 +37,21 @@ that it would be easier and go more smoothly than it did, but more on that
 later.
 
 I needed to decide on what parts to buy for my computer. Here are the three
-goals I had in mind:
-- Buy parts that are all compatible with each other
-- Be able to play games in >100 FPS and 1440p
-- Be able to see the inside of the computer, and (if possible) have it look good.
+goals I had in mind when choosing the parts:
+1. Buy parts that are all compatible with each other, no screw-ups
+2. Be able to play games in >100 FPS and 1440p
+3. Be able to see the inside of the computer, and (if possible) have it look good
+
+My research mainly consisted of looking up "best X for gaming computers" and
+using [PC Part Picker](https://pcpartpicker.com) to look at other people's
+builds and to sort parts based on various features. In the end, I think I relied
+mainly on others' reviews, advice,
+
+To make sure that my goal of part-compatibility was accomplished, I posted on
+[/r/buildapc](https://www.reddit.com/r/buildapc), asking more-experienced people
+to review the list of parts that I had come up with. They confirmed that there
+were no compatibility issues, as far as they could tell (they were correct), and
+that the resulting machine would be a beast – this got my hopes up for goal #2.
 
 ## Final parts list
 Here is the list of parts that I settled on:
@@ -47,8 +61,8 @@ CPU: **AMD Ryzen 7 2700x**
 	articles about Intel vs. AMD, and it seemed like the main difference was that
 	AMD chips were better at multitasking, whereas Intel chips were better at
 	single-threaded tasks. The Ryzen 2700x appealed to me on an aesthetic level,
-	it was on sale for Amazon Prime Day, and I saw a
-	<a href='https://www.youtube.com/watch?v=WoKPCCYvByo'>Linus Tech Tips video</a> which
+	it was on sale for Amazon Prime Day, and I saw a 
+	[Linus Tech Tips video](https://www.youtube.com/watch?v=WoKPCCYvByo) which
 	concluded that it was really just as good as whatever the equivalent Intel
 	chip is, so I just went for it.
 
@@ -100,7 +114,69 @@ Power Supply: **Corsair RMx Series RM750x**
 	good reviews. I stopped looking after I came across this PSU.
 
 ## The build
-Coming soon
+As soon as I got the last part delivered in the mail, I got to building. Looking
+back, I should have done much more research about how to *actually build*
+a computer. It wasn't a total disaster, but it probably would have gone much
+more smoothly if I had watched a person or two complete a build on YouTube.
+
+After I got home from work, I googled "what order to build a PC." I quickly
+skimmed through several articles, hoping to get started quickly. One build
+suggested that I start by putting the PSU in first, since it's separate from
+everything else and it's relatively simple. That was good advice. It was
+satisfying to start with something easy, it went in there with no trouble, and
+gave me a confidence boost for what was to come. Unfortuntely, not everything
+else went so smoothly.
+
+Next, I put the motherboard in the case. I had heard about how fragile the
+motherboard can be, so I bought an electrostatic discharge bracelet, which
+supposedly protects against frying your parts. I used it, but I'm not sure that
+it was actually doing anything. I ended up having to put in and take out the
+motherboard several times, but it never got fried, so maybe the bracelet was
+working. Initially, it wasn't clear to me where I was supposed to screw the
+motherboard in, but eventually I figured it out. The motherboard was easily the
+most complicated part of the build – which makes sense as it connects every
+piece of your build together.
+
+A lot of the process of building the computer involved goolging stuff about my
+specific parts. Everybody online answers questions about motherboards with some
+version of "did you read the manual?", which isn't a bad question, but you might as
+well answer the question, because it's likely someone else has the same question
+who *has* read the manual.
+
+Anyway, after I got the motherboard into the case, I clicked the I/O shield into
+place. Another easy win amid the chaos. Next, I went to install the CPU. I saw
+on YouTube that you're supposed to gently drop it in and basically do nothing
+else. That went fine, but I for some reason I believed that it hadn't gone in
+properly, so I removed it and ended up accidentally getting my finger in the
+thermal paste. I was kind of concerned that I would need to pause the build
+until I got more thermal paste to reapply. The internet reassured me that it
+was fine, but if temperatures were higher than normal when the computer was
+running that I might need to put more on. It turned out just fine.
+
+Next was the CPU cooler. This part turned out to be one of the more problematic
+sections of the build. First off, there were several parts to install. There
+were two fans to screw into the radiator, then the radiator-fan combo into the
+case, and finally the water block/pump (not sure which it was, might be both?)
+onto the CPU. I installed the fans on the inside of the case blowing into the
+radiator and out of the case, instead of on the outside of the case blowing into
+the radiator and into the case, as the instructions specified. I only realized
+this afterwards, but it seems not to have had an impact – or, at least, not
+a significantly negative one.
+
+The real problem with the cooler came up when I tried to install the water
+block/pump on the CPU. When installing the cooler onto an AMD CPU/motherboard,
+you need to hook the water block/pump onto the board. This is most easily done
+by unscrewing the parts on the motherboard, raising them, hooking the block on,
+and screwing the mobo parts back in. I didn't realize that you could unscrew the
+parts on the mobo, so I needed to apply significant force to get the block on
+both hooks. **I HIGHLY RECOMMEND NOT DOING THIS.** I was pushing my entire body
+down onto the block. I think I got very lucky because nothing was broken, but
+I regretted this immediately after doing it. I really wanted everything to
+work, so I think I was a little frustrated and lost in the moment. In general,
+*if something isn't working by doing it gently, it's probably not supposed to
+work like that.* Don't make the same mistake I did (even though nothing bad
+happened to me). Read about your parts in detail, watch videos, make sure you
+know what you're doing.
 
 ## The OS nightmare
 Coming soon
