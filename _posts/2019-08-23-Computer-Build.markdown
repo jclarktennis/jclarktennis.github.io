@@ -120,7 +120,7 @@ a computer. It wasn't a total disaster, but it probably would have gone much
 more smoothly if I had watched a person or two complete a build on YouTube.
 
 After I got home from work, I googled "what order to build a PC." I quickly
-skimmed through several articles, hoping to get started quickly. One build
+skimmed through several articles, hoping to get started right away. One build
 suggested that I start by putting the PSU in first, since it's separate from
 everything else and it's relatively simple. That was good advice. It was
 satisfying to start with something easy, it went in there with no trouble, and
@@ -145,8 +145,8 @@ who *has* read the manual.
 
 Anyway, after I got the motherboard into the case, I clicked the I/O shield into
 place. Another easy win amid the chaos. Next, I went to install the CPU. I saw
-on YouTube that you're supposed to gently drop it in and basically do nothing
-else. That went fine, but I for some reason I believed that it hadn't gone in
+on YouTube that you're supposed to gently drop it in and basically do nothing else. 
+That went fine, but I for some reason I believed that it hadn't gone in
 properly, so I removed it and ended up accidentally getting my finger in the
 thermal paste. I was kind of concerned that I would need to pause the build
 until I got more thermal paste to reapply. The internet reassured me that it
@@ -174,9 +174,47 @@ down onto the block. I think I got very lucky because nothing was broken, but
 I regretted this immediately after doing it. I really wanted everything to
 work, so I think I was a little frustrated and lost in the moment. In general,
 *if something isn't working by doing it gently, it's probably not supposed to
-work like that.* Don't make the same mistake I did (even though nothing bad
-happened to me). Read about your parts in detail, watch videos, make sure you
+work like that.* Don't make the same mistake I did (even though it seems to have 
+worked out for me). Read about your parts in detail, watch videos, make sure you
 know what you're doing.
+
+Next came the SSD. Really straightfoward. There was a slot in the case where
+I just clicked it into place. All that was left for it was to wire it in. Piece
+of cake.
+
+After that was all done came the hardest remaining part of the build – installing
+the GPU. You might think that it would be really easy to install the GPU; on
+paper, it is easy. There are PCI slots that have covers on them. You
+remove one of the covers (my GPU was two covers wide so I needed to remove two 
+of them), slide the card into the now-free PCI slots, into the PCIe slots on the
+motherboard, and boom, you're done. Well, almost. You're also supposed to screw
+the graphics card into place, since it's going to be resting horizontally in
+your case. Gravity will bear down on the card, and the screws will do most of
+the work of keeping it upright. My case did not come with screws. My card did
+not come with screws. This is where I started to panic (again, panicking is
+never the answer). My case had holes that lined up exactly with holes on the
+GPU. I was convinced screws were supposed to go there. Everybody on the internet
+agreed. My friend Sam, however, believed that my case uses a clamping system to
+keep the card upright. The PCI part of my GPU goes into the PCI slots and is
+clamped down by something on my case. This is how it's sitting in my computer
+today.
+
+I'll admit I really started to freak out at this point. I was starting to think
+that I wasn't cut out for building a computer, and that it would never work.
+I think I had this expectation in my mind about how long it should take me, and
+that the problems I was facing were so simple that they reflected an overall
+incompetence that would block me from successfully putting the computer
+together. I knew deep down that I shouldn't have freaked out, and that basically
+never does you any good. I learned from this experience that a deep breath and
+willingness to try can get you to where you want to be.
+
+Once the GPU was in place, all I had to do was click the RAM sticks into place,
+(which went smoothly) and then wire everything up. I was worried that the wiring
+was going to be difficult, but it was actually quite simple. The wires don't
+really fit into places where they don't belong. This makes it really easy to
+connect everything up. The harder part is connecting everything in a way that
+makes it look nice from the outside. At some point I'll post a picture to show
+you what it looks like, but I don't think it looks too bad.
 
 ## The OS nightmare
 Coming soon
