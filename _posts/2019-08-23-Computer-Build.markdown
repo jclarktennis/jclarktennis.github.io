@@ -216,6 +216,12 @@ connect everything up. The harder part is connecting everything in a way that
 makes it look nice from the outside. At some point I'll post a picture to show
 you what it looks like, but I don't think it looks too bad.
 
+Once all the hardware was in place, it was time to finally press the power button.
+I clicked it... and it all lit up and started whirring! I was really happy about that.
+I had read many reviews online that getting a DOA part wasn't uncommon, but so
+it was a big relief when it all turned on. The next part – installing Windows
+– I thought would be a walk in the park. Boy, was I wrong.
+
 ## The OS nightmare
 Coming soon
 
