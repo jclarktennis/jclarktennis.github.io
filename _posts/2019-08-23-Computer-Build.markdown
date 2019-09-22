@@ -223,7 +223,38 @@ it was a big relief when it all turned on. The next part – installing Windows
 – I thought would be a walk in the park. Boy, was I wrong.
 
 ## The OS nightmare
-Coming soon
+My initial understanding of installing Windows was that you could take any flashdrive,
+put the Windows ISO on it, plug it into your machine, and bam, you're done. That *is*
+case, but there are a lot of ways that you can screw that up.
+
+The real source of all of my issues during this part of the process was that I don't have
+a Windows machine. My coworker actually offered me a flashdrive that already
+had a Windows installation on it  (created from his Windows machine). I took it, but then
+gave it back for some reason because I thought I could make one myself with no problem.
+How foolish! Why didn't I just keep it until I was done with the whole process? Who knows.
+Just gotta try to learn a lesson from it.
+
+I downloaded the Windows 10 ISO onto my Mac, but then found out that my flashdrive wasn't
+formatted correctly. I thought I was going to have to buy a differently-formatted flashdrive,
+but macOS has a tool to reformat them. I got the ISO onto my flashdrive (or so I thought), but an
+error occurred while installing it onto my new computer. MacOS must have corrupted something while
+copying all the files over. 
+
+I thought I found a solution to this problem, too. There is a tool called [UNetbootin](https://unetbootin.github.io/)
+that supposedly can create bootable USB drives "cleanly" (I don't actually know what it does
+specifically). Many people claimed to have success using this tool on macOS, but it didn't work
+for me. The same error came up during the installation process on my new computer.
+I found a Stack Exchange answer somewhere (can't find it now) that claimed this solution
+does not work on macOS 10.14 Mojave. Brutal.
+
+My next idea was to find a Windows machine. I didn't want to wait, though; I installed Parallels
+Desktop on my Mac, which could run Windows. I then downloaded the Windows program that
+creates bootable USB drives through the virtual machine, and bam! It was working!
+
+This whole process took about two days, and it was really frustrating. I don't know
+what I could have done to make it take less time. I think I just had to go through
+that whole process the way I did. Whatever. Now I know: Use Windows to create
+bootable USB Windows installations.
 
 ## Peripherals
 Coming soon
