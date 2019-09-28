@@ -257,7 +257,29 @@ that whole process the way I did. Whatever. Now I know: Use Windows to create
 bootable USB Windows installations.
 
 ## Peripherals
-Coming soon
+In order to complete the setup, I had to get some additional equipment:
+
+Monitor: **ASUS ROG Swift PG278QR**
+- This monitor has a 165Hz refresh rate, 1440p resolution, and adjustable height. Really, what more could
+    I ask for?
+	
+Mouse: **Logitech G703 Gaming Mouse**
+ - The G703 has controllable RGB lighting, has wired/wireless modes, and feels good. It has two buttons on the side,
+     which is really all I need. I'm satisfied with it.
+	
+Keyboard: **WASD V2 87-Key Custom Mechanical Keyboard**
+- I actually already had this keyboard before I started this build. If you're considering it, I highly recommend it 
+    (check out their V3 keyboard, which came out since I bought mine). I have Cherry MX brown switches, which I 
+	absolutely love. They have a decent amount of resistance, so I get to slam down on the keys without breaking
+	my keyboard. They put out a new version, V3, which is worth looking into if you're in the market for a new keyboard.
+	
+Headset: **Senheiser Game ONE**
+- This headset has an "open back" design, so you can hear yourself when you talk, which is great. Another upside
+    of this is that your ears don't get hot from several hours of use in a row. The only downside that I've
+	experienced is that you can hear all of the sounds happening around you. Living on a busy street in NYC
+	amplifies this effect, but I think it's worth it compared to having to take the headset off frequently.
+	Additionally, the microphone is *amazing*. My friend recommended this headset to me, and his voice sounds like
+	he's sitting next to me when we talk online.
 
 ## Setting up everything in my room
 Coming soon
