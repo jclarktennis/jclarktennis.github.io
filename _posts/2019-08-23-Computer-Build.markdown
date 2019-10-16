@@ -278,7 +278,7 @@ Headset: **Senheiser Game ONE**
     of this is that your ears don't get hot from several hours of use in a row. The only downside that I've
 	experienced is that you can hear all of the sounds happening around you. Living on a busy street in NYC
 	amplifies this effect, but I think it's worth it compared to having to take the headset off frequently.
-	Additionally, the microphone is *amazing*. My friend Sam recommended this headset to me, and his voice sounds like
+	Additionally, the microphone is *amazing*. My friend recommended this headset to me, and his voice sounds like
 	he's sitting next to me when we talk online.
 
 ## Setting up everything in my room
